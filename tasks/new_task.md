@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-45QOklwOD78ftOdL9pEtsUPH.png?st=2024-11-06T15%3A54%3A27Z&se=2024-11-06T17%3A54%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-05T20%3A05%3A13Z&ske=2024-11-06T20%3A05%3A13Z&sks=b&skv=2024-08-04&sig=AxiSiAvE5/4yWhfUrXGmtyfM9HB9vESN7R/Y8RSVIME%3D)
+
 ## 🧠 Data Science Adventure: File-Driven Dynamic Object Creation Challenge
 
 Welcome to an exciting programming journey where you'll dive into the world of data science by creating a dynamic Java application driven by real-world data. This task will challenge your understanding of file I/O operations, class design principles, and creative problem-solving skills. By the end, you'll have a robust Java application capable of reading data from files and instantiating objects based on that data. Let's get started!
