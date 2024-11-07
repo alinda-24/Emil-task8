@@ -1,3 +1,5 @@
+![Task Image](https://oaidalleapiprodscus.blob.core.windows.net/private/org-asPC5Skb6EoE1i324HhdGnV1/user-4VyHdJuNDsg3rdcmO7ghXoi2/img-ls3ISxHBRQyv5g9zPOwc3xFr.png?st=2024-11-07T09%3A16%3A05Z&se=2024-11-07T11%3A16%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-11-06T20%3A24%3A00Z&ske=2024-11-07T20%3A24%3A00Z&sks=b&skv=2024-08-04&sig=BpGD1flKlSatWUpdeVdlZ3BO4uNN87gLIiIZNvcEzQo%3D)
+
 ### 🪐 Physics and Simulation: Simulating the Three-Body Problem
 
 Welcome to a captivating journey into the world of physics and simulation, where you'll unravel the intricacies of the three-body problem. In this task, you'll explore the fascinating dynamics of gravitational interactions among three celestial bodies using your programming skills. This project will guide you through designing classes, reading data from files to instantiate objects, and creatively solving complex problems with code.
