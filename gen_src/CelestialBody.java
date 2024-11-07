@@ -1,5 +1,3 @@
-// This code should be in CelestialBody.java file
-
 import java.util.List;
 
 public class CelestialBody {
